@@ -55,8 +55,40 @@ To set APP Key
 
 
 
-## OUTPUT 
+## OUTPUT :
+<img width="1901" height="1146" alt="Screenshot 2025-11-29 212504" src="https://github.com/user-attachments/assets/69309f84-94b0-4478-b396-99bcc857a3b7" />
 
+<img width="1920" height="1200" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/930d8480-187c-467e-8807-36b5ed44a5dc" />
+
+<img width="1915" height="1087" alt="image" src="https://github.com/user-attachments/assets/ff357cee-9285-40f5-a3b7-e0c5de6c7399" />
+
+
+<img width="1920" height="1200" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/1e03a12e-9f11-4844-89c0-7e472c5d0d48" />
+
+<img width="1920" height="1200" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/12d33d40-500f-4c9a-9f90-d7e6f31fb2da" />
+
+
+<img width="1919" height="1199" alt="Screenshot 2025-11-29 102138" src="https://github.com/user-attachments/assets/36d6833b-b6aa-4e9e-b491-d9d296a64970" />
+
+<img width="1912" height="1199" alt="Screenshot 2025-11-29 102158" src="https://github.com/user-attachments/assets/27152e33-3967-4d86-af58-bb908e50a999" />
+
+<img width="1919" height="1197" alt="Screenshot 2025-11-29 102219" src="https://github.com/user-attachments/assets/2ea8c596-9939-4466-8f2b-dc37aaa48259" />
+
+<img width="1919" height="1199" alt="Screenshot 2025-11-29 102238" src="https://github.com/user-attachments/assets/8692a8c3-b12b-4d66-a227-1e94fb250837" />
+
+
+<img width="1918" height="1145" alt="Screenshot 2025-11-29 102306" src="https://github.com/user-attachments/assets/8cfed862-003e-4b45-9aca-ea6a93cca31e" />
+
+<img width="1901" height="1159" alt="Screenshot 2025-11-29 102353" src="https://github.com/user-attachments/assets/afcb7692-2a47-44e5-af92-e03ad222779a" />
+
+<img width="1919" height="1199" alt="Screenshot 2025-11-29 102459" src="https://github.com/user-attachments/assets/4460335e-d690-4ca3-83d8-f0cc0f64e671" />
+
+
+<img width="1919" height="1174" alt="Screenshot 2025-11-29 102556" src="https://github.com/user-attachments/assets/5671db20-3a61-480a-a0ad-b03db309029d" />
+
+<img width="1911" height="1198" alt="Screenshot 2025-11-29 102640" src="https://github.com/user-attachments/assets/0b26a409-d8a0-4249-95cd-efd4a38cf0fa" />
+
+<img width="1915" height="1199" alt="Screenshot 2025-11-29 102700" src="https://github.com/user-attachments/assets/24760609-4c18-4585-a510-69423df4e7df" />
 
 ## Result: 
 
